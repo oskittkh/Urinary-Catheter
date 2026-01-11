@@ -1,1 +1,2 @@
 # Urinary-Catheter
+The project, "A device for detecting blockages and controlling urine flow in urinary catheters," was developed using an Arduino Uno R4. It operates via a flow sensor to measure urine flow. When there is no flow, a servo motor is activated to rotate and compress the catheter, causing the urine stream to move. If there is still no flow, a notification is sent to the nurse via Line OA.
